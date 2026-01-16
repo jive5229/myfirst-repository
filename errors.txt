@@ -13,3 +13,4 @@ accidentally
 accommodation
 account
 acknowledge
+acquire
