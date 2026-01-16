@@ -12,3 +12,4 @@ accept
 accidentally
 accommodation
 account
+acknowledge
