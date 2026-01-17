@@ -26,3 +26,4 @@ alcohol
 alittle
 all
 allow
+alsophoto
