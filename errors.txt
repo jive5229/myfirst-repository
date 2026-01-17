@@ -27,3 +27,4 @@ alittle
 all
 allow
 alsophoto
+alter
