@@ -16,3 +16,4 @@ acknowledge
 acquire
 actress
 actual
+adequate
