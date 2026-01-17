@@ -19,3 +19,4 @@ actual
 adequate
 adequately
 admiration
+affect
