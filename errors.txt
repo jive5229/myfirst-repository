@@ -25,3 +25,4 @@ aim
 alcohol
 alittle
 all
+allow
