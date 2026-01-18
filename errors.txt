@@ -39,3 +39,4 @@ appropriate
 arrive
 ask
 assist
+assistance
