@@ -40,3 +40,4 @@ arrive
 ask
 assist
 assistance
+assure
