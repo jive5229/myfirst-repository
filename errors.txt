@@ -41,3 +41,4 @@ ask
 assist
 assistance
 assure
+attitude
