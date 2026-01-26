@@ -65,3 +65,4 @@ become
 believe
 below
 bent
+betting
