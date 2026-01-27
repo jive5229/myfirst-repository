@@ -84,3 +84,4 @@ calm
 campaign
 cancel
 cancer
+candidate
