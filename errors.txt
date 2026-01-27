@@ -90,3 +90,4 @@ cease
 cent
 century
 certificate
+charity
