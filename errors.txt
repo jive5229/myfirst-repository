@@ -105,3 +105,4 @@ clean
 clerk
 click
 climb
+clock
