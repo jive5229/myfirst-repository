@@ -93,3 +93,4 @@ certificate
 charity
 chemical
 chemist
+chemistry
