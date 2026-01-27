@@ -76,3 +76,4 @@ board
 bore
 bracket
 brilliant
+burst
