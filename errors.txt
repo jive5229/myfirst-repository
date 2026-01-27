@@ -99,3 +99,4 @@ choose
 cigarette
 cinema
 circumstance
+claim
