@@ -83,3 +83,4 @@ cabinet
 calm
 campaign
 cancel
+cancer
