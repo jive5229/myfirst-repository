@@ -102,3 +102,4 @@ circumstance
 claim
 clause
 clean
+clerk
