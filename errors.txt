@@ -85,3 +85,4 @@ campaign
 cancel
 cancer
 candidate
+captain
