@@ -92,3 +92,4 @@ century
 certificate
 charity
 chemical
+chemist
