@@ -91,3 +91,4 @@ cent
 century
 certificate
 charity
+chemical
