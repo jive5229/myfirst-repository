@@ -109,3 +109,4 @@ clock
 closet
 cloth
 club
+coal
