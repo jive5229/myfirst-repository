@@ -141,3 +141,4 @@ consequence
 conservative
 consonant
 constant
+constantly
