@@ -3,7 +3,6 @@ january
 abbreviation
 absolute
 absorb
-accept
 accidentally
 accommodation
 account
