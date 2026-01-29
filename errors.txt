@@ -107,3 +107,4 @@ click
 climb
 clock
 closet
+cloth
