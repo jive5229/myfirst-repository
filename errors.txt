@@ -126,3 +126,4 @@ committee
 communicate
 comparative
 comparison
+competition
