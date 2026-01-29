@@ -4,3 +4,4 @@ all
 ask
 abandon
 ability
+friday
