@@ -127,3 +127,4 @@ communicate
 comparative
 comparison
 competition
+competitive
