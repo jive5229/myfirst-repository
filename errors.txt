@@ -114,3 +114,4 @@ code
 collapse
 colleague
 collect
+college
